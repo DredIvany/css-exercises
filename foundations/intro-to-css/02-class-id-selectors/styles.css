@@ -1,0 +1,16 @@
+.odd{
+  background-color: lightcoral;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  /*so font name that has whitespace needs quotation mark*/
+}
+#num2 {
+  color: blue;
+  font-size: 36px;
+}
+.adjust-font-size{
+  font-size: 24px;
+}
+#num4 {
+  background-color: lightgreen;
+  font-weight: bold;
+}
